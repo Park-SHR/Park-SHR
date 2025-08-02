@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center" style="color:#6c757d">🎓 충북대학교 산업 AI 전공 석사과정</h1>
 
-<!--
-**Park-SHR/Park-SHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :clipboard: 학력
+- 명석고등학교 졸업 (2008.03. ~ 2011.02.)
+- 우송대학교 게임멀티미디어학과 졸업 (2011.02. ~ 2018.02.)
+- 충북대학교 대학원 산업인공지능학과 (2025.03. ~ 이수중)
 
-Here are some ideas to get you started:
+## :pushpin: 경력
+- (주)솔트웍스 (2017.02. ~ 2018.05.) : Unity Engine 활용 3D 국방 정비 시뮬레이션 제작
+- (주)심스리얼리티 (2019.01. ~ 재직중) : 디지털트윈, 메타버스, AI와 같이 차세대 기술을 접목 기술 개발
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## :desktop_computer: [AI-Ex 포트폴리오 목록]
+#### 2025년도 1학기
+###### ＊ 딥러닝 실제 - 전명근 교수님
+###### ＊ 영상처리 실제 - 신재혁 교수님
